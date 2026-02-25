@@ -138,7 +138,7 @@ func rolePermissions(role: String) {
 
 ## External Resources
 
-These references are based on the following open-source agent skills:
+For more reference, use these open-source agent skills and documentation services:
 
 ### AvdLee Skills
 - [SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) - SwiftUI best practices
@@ -155,3 +155,9 @@ These references are based on the following open-source agent skills:
   - Swift Concurrency Expert - Swift 6.2+ concurrency
   - iOS Debugger Agent - Build and debug workflows
   - App Store Changelog - Release notes generation
+
+### Apple Documentation
+
+- [sosumi.ai](https://sosumi.ai/) - AI-readable Apple Developer documentation
+  - Replace `developer.apple.com` with `sosumi.ai` in URLs (e.g., `https://sosumi.ai/documentation/swiftui/view`)
+  - MCP server at `https://sosumi.ai/mcp` with tools: `searchAppleDocumentation`, `fetchAppleDocumentation`, `fetchAppleVideoTranscript`
