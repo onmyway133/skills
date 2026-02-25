@@ -1,0 +1,69 @@
+{
+  "name": "super-skills",
+  "owner": {
+    "name": "khoa",
+    "url": "https://github.com/onmyway113"
+  },
+  "metadata": {
+    "description": "Claude Code skills for iOS, Swift, React, and frontend development",
+    "version": "1.0.0"
+  },
+  "skills": [
+    {
+      "name": "swift",
+      "description": "Swift and iOS development with modern patterns and best practices",
+      "source": "./skills/swift"
+    },
+    {
+      "name": "swiftui",
+      "description": "SwiftUI component design, composition, and styling patterns",
+      "source": "./skills/swiftui"
+    },
+    {
+      "name": "swift-data",
+      "description": "SwiftData persistence with models, queries, relationships, and CloudKit sync",
+      "source": "./skills/swift-data"
+    },
+    {
+      "name": "swift-testing",
+      "description": "Swift Testing framework patterns and best practices",
+      "source": "./skills/swift-testing"
+    },
+    {
+      "name": "react",
+      "description": "React and TypeScript development with Tailwind and shadcn/ui",
+      "source": "./skills/react"
+    },
+    {
+      "name": "frontend-design",
+      "description": "Distinctive, production-grade frontend interfaces",
+      "source": "./skills/frontend-design"
+    },
+    {
+      "name": "feature-plan",
+      "description": "Design comprehensive implementation plans for new features",
+      "source": "./skills/feature-plan"
+    },
+    {
+      "name": "skill-creator",
+      "description": "Creates new Claude Code skills with proper structure and documentation",
+      "source": "./skills/skill-creator"
+    },
+    {
+      "name": "ios-developer",
+      "description": "Comprehensive iOS development guidance covering SwiftUI, Swift Concurrency, Core Data, and Swift Testing",
+      "source": "./skills/ios-developer"
+    },
+    {
+      "name": "blog-writer",
+      "description": "Technical blog writing with engaging hooks, progressive complexity, and code-first explanations",
+      "source": "./skills/blog-writer"
+    },
+    {
+      "name": "react-developer",
+      "description": "Comprehensive React development with performance, design, composition, and React Native patterns",
+      "source": "./skills/react-developer"
+    }
+  ],
+  "tags": ["ios", "swift", "swiftui", "swiftdata", "swift-concurrency", "core-data", "swift-testing", "react", "react-native", "frontend-design", "testing", "writing"]
+}
