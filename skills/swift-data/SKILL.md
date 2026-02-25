@@ -108,6 +108,10 @@ book.title = "Updated Title"
 modelContext.delete(book)
 ```
 
+## Note
+
+For comprehensive SwiftData tutorials, check [Hacking with Swift - SwiftData](https://www.hackingwithswift.com/quick-start/swiftdata/).
+
 ## References
 
 - **[model-basics.md](references/model-basics.md)** - @Model macro, properties, attributes
