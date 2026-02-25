@@ -2,6 +2,8 @@
 
 A collection of Claude Code skills for iOS, Swift, React, and frontend development.
 
+![](/images/skills.png)
+
 ## Skills
 
 | Skill | Description |
