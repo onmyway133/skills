@@ -99,7 +99,7 @@ This repository is configured as a Claude Code skills marketplace named `super-s
 - [Vercel Agent Skills](https://github.com/vercel-labs/agent-skills) - Vercel Labs agent skills examples
 
 ### iOS Development Skills
-- [Hacking with Swift - SwiftData](https://www.hackingwithswift.com/quick-start/swiftdata/) - Comprehensive SwiftData tutorials
+- [Hacking with Swift](https://www.hackingwithswift.com) - Comprehensive Swift tutorials
 - [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) - SwiftUI best practices
 - [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) - Swift Concurrency patterns
 - [AvdLee/Core-Data-Agent-Skill](https://github.com/AvdLee/Core-Data-Agent-Skill) - Core Data guidance

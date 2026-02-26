@@ -21,6 +21,8 @@ You are an iOS development expert. This skill aggregates best practices from spe
 | Need | Reference |
 |------|-----------|
 | SwiftUI views, state, modern APIs | → [swiftui.md](references/swiftui.md) |
+| What's new in SwiftUI by iOS version | → [whats-new-swiftui/](references/whats-new-swiftui/) |
+| What's new in Swift by version | → [whats-new-swift/](references/whats-new-swift/) |
 | async/await, actors, Sendable | → [swift-concurrency.md](references/swift-concurrency.md) |
 | Core Data persistence, threading | → [core-data.md](references/core-data.md) |
 | Swift Testing, migration from XCTest | → [swift-testing.md](references/swift-testing.md) |
@@ -131,6 +133,8 @@ func rolePermissions(role: String) {
 ## References
 
 - **[swiftui.md](references/swiftui.md)** - SwiftUI best practices, state management, modern APIs
+- **[whats-new-swiftui/](references/whats-new-swiftui/)** - SwiftUI features by iOS version (14, 15, 16, 17, 18, 26)
+- **[whats-new-swift/](references/whats-new-swift/)** - Swift language features by version (5.1-6.1)
 - **[swift-concurrency.md](references/swift-concurrency.md)** - async/await, actors, Sendable, Swift 6 migration
 - **[core-data.md](references/core-data.md)** - Core Data patterns, threading, migrations
 - **[swift-testing.md](references/swift-testing.md)** - Swift Testing framework, XCTest migration
