@@ -1,6 +1,6 @@
 ---
-name: "react-developer"
-description: "Comprehensive React development with performance, design, composition, and React Native patterns"
+name: react_developer
+description: Comprehensive React development with performance, design, composition, and React Native patterns
 ---
 
 # React Developer

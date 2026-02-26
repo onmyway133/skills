@@ -1,6 +1,6 @@
 ---
-name: "Feature Plan"
-description: "Designs comprehensive implementation plans for new features with architecture considerations"
+name: feature_plan
+description: Designs comprehensive implementation plans for new features with architecture considerations
 ---
 
 # Feature Plan

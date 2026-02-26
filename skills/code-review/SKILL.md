@@ -1,6 +1,6 @@
 ---
-name: "code-review"
-description: "Comprehensive code review for quality, security, performance, and best practices across any language"
+name: code_review
+description: Comprehensive code review for quality, security, performance, and best practices across any language
 ---
 
 # Code Review

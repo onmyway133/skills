@@ -1,6 +1,6 @@
 ---
-name: "blog-writer"
-description: "Technical blog writing with engaging hooks, progressive complexity, and code-first explanations"
+name: blog_writer
+description: Technical blog writing with engaging hooks, progressive complexity, and code-first explanations
 ---
 
 # Blog Writer

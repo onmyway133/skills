@@ -1,6 +1,6 @@
 ---
-name: "React"
-description: "React and TypeScript development with Tailwind, shadcn/ui, and modern patterns"
+name: react
+description: React and TypeScript development with Tailwind, shadcn/ui, and modern patterns
 ---
 
 # React

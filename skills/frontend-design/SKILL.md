@@ -1,6 +1,6 @@
 ---
-name: "Frontend Design"
-description: "Creates distinctive, production-grade frontend interfaces with high design quality, avoiding generic AI aesthetics"
+name: frontend_design
+description: Creates distinctive, production-grade frontend interfaces with high design quality, avoiding generic AI aesthetics
 ---
 
 # Frontend Design

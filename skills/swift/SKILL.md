@@ -1,6 +1,6 @@
 ---
-name: "Swift"
-description: "Swift and iOS development with modern patterns and best practices"
+name: swift
+description: Swift and iOS development with modern patterns and best practices
 ---
 
 # Swift

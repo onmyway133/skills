@@ -1,6 +1,6 @@
 ---
-name: "skill-creator"
-description: "Creates new Claude Code skills with proper structure, references, and documentation"
+name: skill_creator
+description: Creates new Claude Code skills with proper structure, references, and documentation
 ---
 
 # Skill Creator
@@ -62,8 +62,8 @@ Break content into focused modules:
 Structure:
 ```markdown
 ---
-name: "Skill Name"
-description: "One-line description for marketplace"
+name: skill_name
+description: One-line description for marketplace
 ---
 
 # Skill Name

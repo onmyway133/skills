@@ -1,6 +1,6 @@
 ---
-name: "ios-developer"
-description: "Comprehensive iOS development guidance covering SwiftUI, Swift Concurrency, Core Data, and Swift Testing"
+name: ios_developer
+description: Comprehensive iOS development guidance covering SwiftUI, Swift Concurrency, Core Data, and Swift Testing
 ---
 
 # iOS Developer

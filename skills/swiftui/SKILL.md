@@ -1,6 +1,6 @@
 ---
-name: "SwiftUI"
-description: "SwiftUI patterns, view composition, styling, and reusable UI elements"
+name: swiftui
+description: SwiftUI patterns, view composition, styling, and reusable UI elements
 ---
 
 # SwiftUI

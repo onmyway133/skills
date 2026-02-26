@@ -1,6 +1,6 @@
 ---
-name: "swift-data"
-description: "SwiftData persistence framework with models, queries, relationships, and CloudKit sync"
+name: swift_data
+description: SwiftData persistence framework with models, queries, relationships, and CloudKit sync
 ---
 
 # SwiftData

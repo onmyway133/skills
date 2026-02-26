@@ -1,6 +1,6 @@
 ---
-name: "Swift Testing"
-description: "Modern Swift Testing framework patterns and best practices"
+name: swift_testing
+description: Modern Swift Testing framework patterns and best practices
 ---
 
 # Swift Testing
