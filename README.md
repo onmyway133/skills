@@ -100,6 +100,7 @@ This repository is configured as a Claude Code skills marketplace named `super-s
 
 ### iOS Development Skills
 - [Hacking with Swift](https://www.hackingwithswift.com) - Comprehensive Swift tutorials
+- [SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)
 - [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) - SwiftUI best practices
 - [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) - Swift Concurrency patterns
 - [AvdLee/Core-Data-Agent-Skill](https://github.com/AvdLee/Core-Data-Agent-Skill) - Core Data guidance
