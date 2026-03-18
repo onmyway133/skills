@@ -95,17 +95,26 @@ This repository is configured as a Claude Code skills marketplace named `super-s
 ## References
 
 ### Skills Frameworks
+
 - [Anthropic Skills](https://github.com/anthropics/skills) - Official Anthropic skills documentation
-- [Vercel Agent Skills](https://github.com/vercel-labs/agent-skills) - Vercel Labs agent skills examples
+- [Vercel Agent Skills](https://github.com/vercel-labs/agent-skills) - Vercel Labs agent skills
 
 ### iOS Development Skills
-- [Hacking with Swift](https://www.hackingwithswift.com) - Comprehensive Swift tutorials
+
 - [SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)
+- [SwiftData Pro](https://github.com/twostraws/SwiftData-Agent-Skill)
+- [Swift Concurrency Pro](https://github.com/twostraws/Swift-Concurrency-Agent-Skill)
+- [Swift Testing Pro](https://github.com/twostraws/Swift-Testing-Agent-Skill)
 - [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) - SwiftUI best practices
 - [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) - Swift Concurrency patterns
 - [AvdLee/Core-Data-Agent-Skill](https://github.com/AvdLee/Core-Data-Agent-Skill) - Core Data guidance
 - [AvdLee/Swift-Testing-Agent-Skill](https://github.com/AvdLee/Swift-Testing-Agent-Skill) - Swift Testing framework
 - [Dimillian/Skills](https://github.com/Dimillian/Skills) - iOS development skills collection
+
+### Guide
+
+- [Hacking with Swift](https://www.hackingwithswift.com) - Comprehensive Swift tutorials
+  
 ## License
 
 MIT License - see [LICENSE](LICENSE)
